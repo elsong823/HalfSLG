@@ -37,9 +37,9 @@ namespace ELGame
             obstacleGrids = new List<GridUnitData>();
 
             //全部生成为普通格子
-            for (int r = 0; r < mapWidth; ++r)
+            for (int r = 0; r < mapHeight; ++r)
             {
-                for (int c = 0; c < mapHeight; ++c)
+                for (int c = 0; c < mapWidth; ++c)
                 {
                     GridUnitData gud = new GridUnitData();
                     gud.localPosition = new Vector3(
@@ -53,7 +53,7 @@ namespace ELGame
                     //初始设置为普通格子
                     SetGridType(gud, GridType.Normal);
                     //保存
-                    mapGrids[r, c] = gud;
+                    mapGrids[c, r] = gud;
                 }
             }
 

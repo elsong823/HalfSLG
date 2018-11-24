@@ -50,20 +50,20 @@ namespace ELGame
             }
             gridUnits = new GridUnit[currentData.mapWidth, currentData.mapHeight];
 
-            for (int i = 0; i < currentData.mapWidth; ++i)
+            for (int row = 0; row < currentData.mapHeight; ++row)
             {
-                for (int j = 0; j < currentData.mapHeight; ++j)
+                for (int column = 0; column < currentData.mapWidth; ++column)
                 {
-                    GridUnitData gud = currentData.mapGrids[i, j];
+                    GridUnitData gud = currentData.mapGrids[column, row];
                     if (gud != null)
                     {
                         //创建一个用于显示的格子对象
                         GridUnit gu = CreateGrid();
                         if (gu != null)
                         {
-                            gridUnits[i, j] = gu;
+                            gridUnits[column, row] = gu;
                             gu.transform.localPosition = gud.localPosition;
-                            gu.name = string.Format("Grid_{0}_{1}", i, j);
+                            gu.name = string.Format("Grid_{0}_{1}", row, column);
                             gu.gridData = gud;
                             gu.Refresh();
                             gu.gameObject.SetActive(true);

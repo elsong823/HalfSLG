@@ -39,7 +39,7 @@ namespace ELGame
         public BattleData CreateBattle()
         {
             BattleData bd = new BattleData();
-            bd.Generate(10, 10, 10, 2);
+            bd.Generate(8, 12, 10, 2);
             return bd;
         }
     }
