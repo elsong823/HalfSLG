@@ -72,16 +72,16 @@
     <Compile Include="Assets\HalfSLG\Scripts\Utility\EUtilityHelperL.cs" />
     <Compile Include="Assets\HalfSLG\Scripts\Utility\IELBase.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>E:/HalfSLG/HalfSLG/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>E:/GITHUB/HalfSLG/S1/HalfSLG/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/HalfSLG/HalfSLG/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/GITHUB/HalfSLG/S1/HalfSLG/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>E:/HalfSLG/HalfSLG/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>E:/GITHUB/HalfSLG/S1/HalfSLG/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/HalfSLG/HalfSLG/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/GITHUB/HalfSLG/S1/HalfSLG/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity2018.2.7/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
