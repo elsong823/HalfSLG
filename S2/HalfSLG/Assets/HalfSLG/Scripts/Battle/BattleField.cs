@@ -351,8 +351,10 @@ namespace ELGame
         {
             //测试点中
             TestSelected();
+
             //测试导航
             //TestNavigation();
+
             //测试半径显示
             //TestSelectedRange(2);
         }
@@ -365,7 +367,7 @@ namespace ELGame
             clickedWorldPos = gridUnitsRoot.transform.InverseTransformPoint(clickedWorldPos);
             //初步判定所在行列
             int row = Mathf.FloorToInt((clickedWorldPos.y - EGameConstL.Map_GridOffsetY * 0.5f) / -EGameConstL.Map_GridOffsetY);
-            int column = Mathf.FloorToInt((clickedWorldPos.x + EGameConstL.Map_GridWidth * 0.5f - ((row & 1) == 0 ? 0f : (EGameConstL.Map_GridWidth * 0.5f))) / EGameConstL.Map_GridWidth);
+            int column = Mathf.FloorToInt((clickedWorldPos.x + EGameConstL.Map_GridWidth * 0.5f - ((row & 1) == (EGameConstL.Map_FirstRowOffset ? 1 : 0) ? 0f : (EGameConstL.Map_GridWidth * 0.5f))) / EGameConstL.Map_GridWidth);
 
             int testRow = 0;
             int testColumn = 0;
