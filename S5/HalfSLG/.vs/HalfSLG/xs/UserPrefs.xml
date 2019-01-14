@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{7B158269-59F2-619D-670E-E07D26D55164}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HalfSLG/Scripts/Manager/UIViewManager.cs">
+    <Files>
+      <File FileName="Assets/HalfSLG/Scripts/UIView/UIViewBattleFieldUnitInfo.cs" Line="56" Column="9" />
+      <File FileName="Assets/HalfSLG/Scripts/UIView/UIViewBase.cs" Line="261" Column="21" />
+      <File FileName="Assets/HalfSLG/Scripts/Manager/BattleManager.cs" Line="83" Column="10" />
+      <File FileName="Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleFieldRenderer.cs" Line="701" Column="39" />
+      <File FileName="Assets/HalfSLG/Scripts/UIView/UIViewMain.cs" Line="29" Column="34" />
+      <File FileName="Assets/HalfSLG/Scripts/Manager/UIViewManager.cs" Line="114" Column="45" />
+      <File FileName="Assets/HalfSLG/Scripts/Battle/Data/BattleUnit.cs" Line="35" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

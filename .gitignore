@@ -26,6 +26,13 @@
 /S4/HalfSLG/[Bb]uilds/
 /S4/HalfSLG/Assets/AssetStoreTools*
 
+/S5/HalfSLG/[Ll]ibrary/
+/S5/HalfSLG/[Tt]emp/
+/S5/HalfSLG/[Oo]bj/
+/S5/HalfSLG/[Bb]uild/
+/S5/HalfSLG/[Bb]uilds/
+/S5/HalfSLG/Assets/AssetStoreTools*
+
 # Visual Studio 2015 cache directory
 /.vs/
 
