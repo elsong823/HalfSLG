@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BattleCamera
+  - UIViewRoot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Battle
+  - BattleUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Invisible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Battle_Map
+    uniqueID: 1112687309
+    locked: 0
+  - name: Battle_Bar
+    uniqueID: 3696906097
+    locked: 0
+  - name: Battle_Effect
+    uniqueID: 2899919589
+    locked: 0
+  - name: UI_Background
+    uniqueID: 48992581
+    locked: 0
+  - name: UI_Base
+    uniqueID: 286987279
+    locked: 0
+  - name: UI_Popup
+    uniqueID: 3217520383
+    locked: 0
+  - name: UI_Top
+    uniqueID: 3166045265
+    locked: 0
+  - name: UI_Debug
+    uniqueID: 330123047
+    locked: 0
