@@ -1,0 +1,14 @@
+m_EditorVersion: 2018.2.15f1
+/Users/el/Desktop/HalfSLG/HalfSLG/.vs/HalfSLG/xs/UserPrefs.xml
+/Users/el/Desktop/HalfSLG/HalfSLG/.vs/HalfSLG/xs/sqlite3/storage.ide
+/Users/el/Desktop/HalfSLG/HalfSLG/.vs/HalfSLG/xs/sqlite3/storage.ide-shm
+/Users/el/Desktop/HalfSLG/HalfSLG/.vs/HalfSLG/xs/sqlite3/storage.ide-wal
+/Users/el/Desktop/HalfSLG/HalfSLG/Assets/HalfSLG/Prefabs/BattleMapUnits/BattleUnit.prefab
+/Users/el/Desktop/HalfSLG/HalfSLG/Assets/HalfSLG/Scripts/Battle/Data/BattleField.cs
+/Users/el/Desktop/HalfSLG/HalfSLG/Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleFieldRenderer.cs
+/Users/el/Desktop/HalfSLG/HalfSLG/Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleUnitRenderer.cs
+/Users/el/Desktop/HalfSLG/HalfSLG/Assets/HalfSLG/Scripts/UIView/UIViewBase.cs
+/Users/el/Desktop/HalfSLG/HalfSLG/Assets/HalfSLG/Scripts/UIView/UIViewBattleFieldPlayerActOption.cs
+/Users/el/Desktop/HalfSLG/HalfSLG/Assets/HalfSLG/Scripts/UIView/UIViewBattleFieldUnitInfo.cs
+/Users/el/Desktop/HalfSLG/HalfSLG/Assets/HalfSLG/Scripts/UIView/UIViewMain.cs
+/Users/el/Desktop/HalfSLG/HalfSLG/ProjectSettings/ProjectVersion.txt

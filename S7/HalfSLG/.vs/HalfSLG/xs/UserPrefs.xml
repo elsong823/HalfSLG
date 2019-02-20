@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{7B158269-59F2-619D-670E-E07D26D55164}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HalfSLG/Scripts/Battle/DataRenderer/GridUnitRenderer.cs">
+    <Files>
+      <File FileName="Assets/HalfSLG/Scripts/Manager/BattleUnitManager.cs" Line="19" Column="39" />
+      <File FileName="Assets/HalfSLG/Scripts/Battle/Data/BattleField.cs" Line="55" Column="61" />
+      <File FileName="Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleUnitRenderer.cs" Line="220" Column="76" />
+      <File FileName="Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleFieldRenderer.cs" Line="1099" Column="89" />
+      <File FileName="Assets/HalfSLG/Scripts/Manager/BattleManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/HalfSLG/Scripts/Controller/Effect/EffectSimpleSpriteController.cs" Line="1" Column="1" />
+      <File FileName="Assets/HalfSLG/Scripts/Utility/EGameConstL.cs" Line="35" Column="96" />
+      <File FileName="Assets/HalfSLG/Scripts/Battle/DataRenderer/GridUnitRenderer.cs" Line="76" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/el/Desktop/HalfSLG/HalfSLG/Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleFieldRenderer.cs" relfile="Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleFieldRenderer.cs" line="670" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
