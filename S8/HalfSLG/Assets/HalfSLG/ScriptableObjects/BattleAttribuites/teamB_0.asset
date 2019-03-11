@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37cd0db4d24db4d0ebaa4099f6b43fc0, type: 3}
+  m_Name: teamB_0
+  m_EditorClassIdentifier: 
+  manualOperation: 0
+  battleUnitName: "TmB\u8FDC\u7A0B0"
+  hp: 100
+  maxHp: 100
+  energy: 0
+  maxEnergy: 100
+  mobility: 3
+  atk: 4
+  battleSkills:
+  - {fileID: 11400000, guid: 4ef06221b1eaac84a804ca668cffe253, type: 2}
+  - {fileID: 11400000, guid: d6c565b8450f36e4a90a6be7bda01d5c, type: 2}
+  - {fileID: 11400000, guid: 3d55aabcf68306447af074a41f38a7a5, type: 2}
+  - {fileID: 11400000, guid: e1fcba6da9e5654448ae1dfce9f144b1, type: 2}

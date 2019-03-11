@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0996A25E-34C6-93A0-28B4-E1CD8C13D2B5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HalfSLG/Scripts/AI/AIFramework/DecisionTree/Base/ActionCreatorBase.cs">
+    <Files>
+      <File FileName="Assets/HalfSLG/Scripts/AI/AIFramework/DecisionTree/Base/ActionCreatorBase.cs" Line="22" Column="1" />
+      <File FileName="Assets/HalfSLG/Scripts/AI/AIFramework/DecisionTree/Base/BaseNode.cs" Line="22" Column="1" />
+      <File FileName="Assets/HalfSLG/Scripts/AI/AIFramework/DecisionTree/Base/ConditionDescriptorBase.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
