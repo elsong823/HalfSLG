@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{0996A25E-34C6-93A0-28B4-E1CD8C13D2B5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HalfSLG/Scripts/Battle/Data/BattleField.cs">
+    <Files>
+      <File FileName="Assets/HalfSLG/Scripts/Utility/UtilitySingleton.cs" Line="58" Column="28" />
+      <File FileName="Assets/HalfSLG/Scripts/BattleBehaviourSystem/BattleBehaviourSystem.cs" Line="182" Column="103" />
+      <File FileName="Assets/HalfSLG/Scripts/BattleBehaviourSystem/BattleBehaviourChip/BattleProvokeChip.cs" Line="55" Column="57" />
+      <File FileName="Assets/HalfSLG/Scripts/BattleBehaviourSystem/BattleBehaviourChip/BattleRageChip.cs" Line="38" Column="107" />
+      <File FileName="Assets/HalfSLG/Scripts/Battle/Data/BattleField.cs" Line="355" Column="48" />
+      <File FileName="Assets/HalfSLG/Scripts/Utility/EGameConstL.cs" Line="22" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/el/Desktop/HalfSLGGame/HalfSLGGame/Assets/HalfSLG/Scripts/HSSystem/RoleObserverStrategyChip.cs" relfile="Assets/HalfSLG/Scripts/HSSystem/RoleObserverStrategyChip.cs" line="30" column="1" />
+      <Breakpoint file="/Users/el/Desktop/HalfSLGGame/HalfSLGGame/Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleFieldRenderer.cs" relfile="Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleFieldRenderer.cs" line="386" column="61" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
