@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 298d47a6d5a8bf74a9e42a0efe97d055, type: 3}
+  m_Name: RoleAdjustor_Dps
+  m_EditorClassIdentifier: 
+  dpsPct: 0.73491204
+  tankPct: 0.132544
+  supportPct: 0.132544

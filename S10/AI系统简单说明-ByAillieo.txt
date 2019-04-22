@@ -1,0 +1,41 @@
+AI系统简单说明
+
+每个战斗单位可以配置一个策略strategy。每个策略是一个状态机，状态机里每个状态中对应一个行为树。
+
+1.数据输入
+核心管理类 StrategyDataCenter
+初始化时，监听BattleActoin
+每当有BattleActoin发生时，就会调用方法OnBattleActionDidHappen
+这是游戏数据进入AI框架的入口
+
+2.数据保存
+各种DataPackXxx 保存战斗过程中所有的数据 分为直接数据和间接数据
+直接数据或间接数据 直接数据是第一手的战场数据，包括战场上各个单位的位置 状态 生命值 攻击力等 可以直接获取到的
+间接数据是根据strategy不同而去保存和监听的，如战场上造成伤害最高的单位，任意单位某个属性达到某个临界值，某个单位和自己的敌对程度等，在strategy中定义
+两种数据都可以监听变化（定义TriggerValue类型 监听onValueChanged）
+当数据变化且满足一定条件时 产生transition 改变单位等状态state
+直接数据从BattleField中获取
+间接数据 战场和战队相关的 保存在StrategyDataCenter中（dataPackBattleField dataPackBattleTeam）
+和个人相关的 保存在brain中 （dataPackSelf dataPackRelation）
+
+3.Brain接收数据
+方法HandleBattleAction
+更新self和relation间接数据
+并且检查在数据更新过程中 是否产生了transition
+如果有则状态发生改变 切换state （DoTransition(Brain brain)）
+
+4 Brain产生BattleActionAction
+当回合中被轮到时，调用方法CreateBattleAction 返回给战斗管理器去执行
+brain产生的battleAction 其实是由当前的state产生的
+state产生battleAction 实际是由这个state对应的行为树产生的
+
+5.简单的行为树
+因为是回合制 所以去掉了持续状态 每次都重新跑一遍整个树 来产生battleAction
+树有四种结点
+NodeAction NodeCondition NodeSelector NodeSequence
+其中NodeAction用来创造BattleAction 具体创建的BattleAction的类型由ActionCreatorBase决定
+NodeCondition是条件结点 条件的具体逻辑在ConditionDescriptorBase中定义
+行为树在编辑器中可以通过一个层级的prefab生成
+DT_Test.prefab 右键CreateTreeAsset 可以得到一个 @DT_Test.asset 是对应的行为树
+
+6.目前只做了一个state（@StateDefault） 没有state切换的具体实现 每个state可以指定一个行为树
