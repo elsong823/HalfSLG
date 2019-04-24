@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dd7e9f55f94ab644a4029a55161d0f6, type: 3}
+  m_Name: UIView_BattleFieldUnitInfo
+  m_EditorClassIdentifier: 
+  unique: 1
+  viewName: 4
+  viewLayer: 3
+  cacheScheme: 2
+  assetName: UIView_BattleFieldUnitInfo
+  coverScreen: 0
+  alwaysUpdate: 0
+  bgTriggerClose: 0

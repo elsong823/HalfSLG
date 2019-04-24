@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37cd0db4d24db4d0ebaa4099f6b43fc0, type: 3}
+  m_Name: Spt
+  m_EditorClassIdentifier: 
+  manualOperation: 1
+  battleUnitName: Spt
+  hp: 125
+  maxHp: 125
+  energy: 0
+  maxEnergy: 100
+  mobility: 4
+  stopDistance: 2
+  baseAtk: 10
+  atkRandRange: 2
+  baseDef: 0
+  defRandRange: 1
+  battleSkills:
+  - {fileID: 11400000, guid: 775159be8aa4a4960bcdf2bbff37bfec, type: 2}
+  - {fileID: 11400000, guid: aa64cf42a0f9c4166856b165528c70e9, type: 2}
+  - {fileID: 11400000, guid: bdf488f280d2848098843b14f97bbbbd, type: 2}
+  battleBehaviourSystem: {fileID: 11400000, guid: bef389e1141488f47b93436a2ead7bbd,
+    type: 2}

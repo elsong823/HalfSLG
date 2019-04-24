@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcdc396df3457b142aa6ec52b8c11756, type: 3}
+  m_Name: PAtk_harvester
+  m_EditorClassIdentifier: 
+  skillID: 1002
+  skillName: "\u65CB\u98CE\u65A9"
+  releaseRadius: 0
+  effectRadius: 1
+  damageType: 0
+  targetType: 1
+  mainValue: 15
+  energyCost: 15
+  hatredMultiple: 1.2
+  rageLevel: 10

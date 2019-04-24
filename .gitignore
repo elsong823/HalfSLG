@@ -67,6 +67,18 @@
 /S10/HalfSLG/[Bb]uild/
 /S10/HalfSLG/[Bb]uilds/
 
+/S11/HalfSLG/[Ll]ibrary/
+/S11/HalfSLG/[Tt]emp/
+/S11/HalfSLG/[Oo]bj/
+/S11/HalfSLG/[Bb]uild/
+/S11/HalfSLG/[Bb]uilds/
+
+/S12/HalfSLG/[Ll]ibrary/
+/S12/HalfSLG/[Tt]emp/
+/S12/HalfSLG/[Oo]bj/
+/S12/HalfSLG/[Bb]uild/
+/S12/HalfSLG/[Bb]uilds/
+
 # Visual Studio 2015 cache directory
 /.vs/
 

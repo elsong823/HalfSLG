@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a923fa93eb92464194d52f56cfbccb4, type: 3}
+  m_Name: EnergyPotion
+  m_EditorClassIdentifier: 
+  itemID: 5001
+  itemName: "\u80FD\u91CF\u6C34\u513F"
+  icon: {fileID: 21300000, guid: 449e68061d0d7f445b54f2250477ef5a, type: 3}
+  itemType: 0
+  hpRecovery: 0
+  energyRecovery: 25

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7B158269-59F2-619D-670E-E07D26D55164}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleUnitRenderer.cs">
+    <Files>
+      <File FileName="Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleUnitRenderer.cs" Line="316" Column="74" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/el/Desktop/HalfSLG/HalfSLG/Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleFieldRenderer.cs" relfile="Assets/HalfSLG/Scripts/Battle/DataRenderer/BattleFieldRenderer.cs" line="347" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

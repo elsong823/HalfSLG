@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7151d3b0c3c7fda45920b7c932488fa6, type: 3}
+  m_Name: Dps_Killer
+  m_EditorClassIdentifier: 
+  battleUnitRole: 1
+  rageChip: {fileID: 11400000, guid: 08fccf7c484cd0144a179e82da22d6d5, type: 2}
+  damageChip: {fileID: 11400000, guid: ffe952bee94133d408db5ee75d5aa558, type: 2}
+  provokeChip: {fileID: 0}
+  recoveryChip: {fileID: 0}
+  battleBehaviourPct:
+    damage: 1
+    provoke: 0
+    recovery: 0
