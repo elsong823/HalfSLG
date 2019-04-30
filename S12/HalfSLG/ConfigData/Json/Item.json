@@ -1,0 +1,42 @@
+[
+  {
+    "itemIcon": "item_HPPotion", 
+    "itemType": "Recovery", 
+    "EnergyRecovery": 0.0, 
+    "IconBundle": "ItemIcon", 
+    "objName": "HPPotion", 
+    "itemName": "生命药水", 
+    "ID": 5000.0, 
+    "HPRecovery": 50.0
+  }, 
+  {
+    "itemIcon": "item_EnergyPotion", 
+    "itemType": "Recovery", 
+    "EnergyRecovery": 25.0, 
+    "IconBundle": "ItemIcon", 
+    "objName": "EnergyPotion", 
+    "itemName": "能量药水", 
+    "ID": 5001.0, 
+    "HPRecovery": 0.0
+  }, 
+  {
+    "itemIcon": "item_HPPotion", 
+    "itemType": "Recovery", 
+    "EnergyRecovery": 0.0, 
+    "IconBundle": "ItemIcon", 
+    "objName": "BigHPPotion", 
+    "itemName": "大生命药水", 
+    "ID": 5002.0, 
+    "HPRecovery": 60.0
+  }, 
+  {
+    "itemIcon": "item_HPPotion", 
+    "itemType": "Recovery", 
+    "EnergyRecovery": 0.0, 
+    "IconBundle": "ItemIcon", 
+    "objName": "BigBigHPPotion", 
+    "itemName": "超大生命药水", 
+    "ID": 5003.0, 
+    "HPRecovery": 62.0
+  }
+]
