@@ -298,7 +298,7 @@ MonoBehaviour:
   battleCamera: {fileID: 8128871721501237441}
   battleTestCount: 500
   teamA:
-  - {fileID: 11400000, guid: 1079c0f7606db480e924e37bfbdf2663, type: 2}
+  - {fileID: 11400000, guid: ddae2b7928fecd049bfdfa69155ce963, type: 2}
   - {fileID: 11400000, guid: 72b441207a1d7428bb346f4000363132, type: 2}
   - {fileID: 11400000, guid: 9c8d25c51ddc643f5bb094f574fe354d, type: 2}
   teamB:

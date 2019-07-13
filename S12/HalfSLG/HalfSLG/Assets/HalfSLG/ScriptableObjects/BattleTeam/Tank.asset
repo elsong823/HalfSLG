@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37cd0db4d24db4d0ebaa4099f6b43fc0, type: 3}
   m_Name: Tank
   m_EditorClassIdentifier: 
-  manualOperation: 1
+  manualOperation: 0
   battleUnitName: Tank
   hp: 300
   maxHp: 300

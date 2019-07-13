@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37cd0db4d24db4d0ebaa4099f6b43fc0, type: 3}
   m_Name: mDps
   m_EditorClassIdentifier: 
-  manualOperation: 1
+  manualOperation: 0
   battleUnitName: mDps
   hp: 200
   maxHp: 200
@@ -25,7 +25,7 @@ MonoBehaviour:
   baseDef: 1
   defRandRange: 1
   battleSkills:
-  - {fileID: 11400000, guid: 1cf26dea907b94fffaeb82f2fded3fdc, type: 2}
-  - {fileID: 11400000, guid: bb0206e4e3f9a48f58017df5b611b15a, type: 2}
+  - {fileID: 11400000, guid: 1f0145d67a89ba045aa822acf172e05c, type: 2}
+  - {fileID: 11400000, guid: 1f0145d67a89ba045aa822acf172e05c, type: 2}
   battleBehaviourSystem: {fileID: 11400000, guid: b43ba6b62d6e16a489975e0aca3f0930,
     type: 2}
